@@ -36,6 +36,12 @@
     <ClInclude Include="Stream.h">
       <Filter>소스 파일\Lib</Filter>
     </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>소스 파일\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryPool.h">
+      <Filter>소스 파일\Lib</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Server_main.cpp">

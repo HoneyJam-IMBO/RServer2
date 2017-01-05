@@ -145,6 +145,8 @@
     <ClInclude Include="CircularQueue.h" />
     <ClInclude Include="Include.h" />
     <ClInclude Include="IniFile.h" />
+    <ClInclude Include="Log.h" />
+    <ClInclude Include="MemoryPool.h" />
     <ClInclude Include="Protocol.h" />
     <ClInclude Include="Registry.h" />
     <ClInclude Include="Stream.h" />
